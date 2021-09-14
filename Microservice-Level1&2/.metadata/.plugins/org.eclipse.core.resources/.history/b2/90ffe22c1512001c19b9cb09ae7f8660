@@ -1,0 +1,5 @@
+package com.islam.MovieCatalogservice.resources;
+
+public class UserRatingInfo {
+
+}

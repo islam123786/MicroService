@@ -1,0 +1,5 @@
+package com.islam.MovieInfoservice.models;
+
+public class MovieSummary {
+
+}

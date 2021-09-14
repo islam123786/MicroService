@@ -1,0 +1,5 @@
+package com.islam.MovieCatalogservice.service;
+
+public class MovieInfo {
+
+}
